@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
 </h2>
  
  <div align="center">
-<a href="http://www.github.com/pal-sandeep"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
-<a href="http://www.github.com/pal-sandeep"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-sandeep&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/iamstepaul"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=iamstepaul&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="http://www.github.com/iamstepaul"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstepaul&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/iamstepaul"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstepaul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 <!-- <a href="https://github.com/pal-sandeep/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-sandeep&repo=Django-URL-Shortener&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
