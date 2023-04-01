@@ -4,32 +4,14 @@
 iamstepaul/iamstepaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) --> 
- <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Sandeep%20Pal%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Sandeep Pal!</h1> 
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Stephen!</h1> 
+<h3 align="center">Building for Cloud | Web | Mobile</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 <!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep Pal" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamstepaul&label=Profile%20views&color=0e75b6&style=flat" alt="IamStepaul" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/8sandeeppal" target="blank"><img src="https://img.shields.io/twitter/follow/8sandeeppal?logo=twitter&style=for-the-badge" alt="sandeep_pal" /></a> </p>
-
-- 🌱 I’m currently learning **Django**
-
-- 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
-
-- 💬 Ask me about **Python and Django**
-
-- 📫 How to reach me **skumar8work@gmail.com**
-
-- ⚡ Fun fact: **Life long learner**
-
-- ❓ Ask me about anything related to Python and related technologies
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1nFg_4gHbqGn5Hg13SGADjaoWC2TtI97B/edit?usp=sharing&ouid=118094392405577097133&rtpof=true&sd=true)
+<p align="left"> <a href="https://twitter.com/iamstepaul" target="blank"><img src="https://img.shields.io/twitter/follow/8sandeeppal?logo=twitter&style=for-the-badge" alt="iamstepaul" /></a> </p>
 
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -170,7 +152,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   <br>
 <!--   ############################### -->
-<!-- [![An image of @palsandeep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/palsandeep)](https://holopin.io/@palsandeep) -->
+<!-- [![An image of @palsandeep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamstepaul)](https://holopin.io/@iamstepaul) -->
 <!--   ############################### -->
   
 <table align="center">
