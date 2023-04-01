@@ -4,33 +4,25 @@
 iamstepaul/iamstepaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Stephen!</h1> 
+<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm <a href="https://twitter.com/iamstepaul/">Stephen.</a>!</h1> 
 <h3 align="center">Building for Cloud | Web | Mobile</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamstepaul&label=Profile%20views&color=0e75b6&style=flat" alt="IamStepaul" /> </p> -->
-
-<p align="left"> <a href="https://twitter.com/iamstepaul" target="blank"><img src="https://img.shields.io/twitter/follow/8sandeeppal?logo=twitter&style=for-the-badge" alt="iamstepaul" /></a> </p>
 
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <!-- ######################################################################################################### -->
 
 <div align="center">
- <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SandeepPal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SandeepPal" /></a></p><br><br>
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a> 
+ <h3 align="center">Support me:</h3>
+<p><a href="https://www.buymeacoffee.com/iamstepaul"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamstepaul" /></a></p><br><br>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"></a> 
 <!--   ######################################################################################################## -->
 <p>
-<a href="https://twitter.com/8sandeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sandeep Pal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/8sandeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep Pal" height="30" width="40" /></a>
-<a href="https://instagram.com/iisandeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandeep Pal" height="30" width="40" /></a>
+<a href="https://twitter.com/iamstepaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamstepaul" height="30" width="40" /></a>
 </p>
   </div>
   <br>
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pal-sandeep&show_icons=true&locale=en&layout=compact" alt="sandeeppal" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamstepaul&show_icons=true&locale=en&layout=compact" alt="sandeeppal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&show_icons=true&locale=en" alt="sandeeppal" /></p>
 
