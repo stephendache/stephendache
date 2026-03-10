@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="30%">
       <h3>🌱<br/>Digital Garden</h3>
-      <a href="https://stephendache.github.io">
+      <a href="https://stephendache.github.io/">
         <img src="https://img.shields.io/badge/Read_Blog-black?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
