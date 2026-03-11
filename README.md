@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm <a href="https://stephendache.github.io">Stephen</a>! 👋</h1>
-  
+  <h1 align="center">Hi, I'm <a href="https://stephendache.github.io">Stephen</a> 👋</h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+for+the+next+billion+users;Engineering+Digital+Gardens;Creating+Developer+Content" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer;Developer+Advocate;Community+Builder;Helping+developers+build+better+things" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,6 +25,13 @@
 
 <br />
 
+<p align="center">
+I build software, grow developer communities, and share what I learn along the way.  
+Helping developers learn, ship products, and think bigger.
+</p>
+
+<br />
+
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="30%">
@@ -40,7 +47,7 @@
       </a>
     </td>
     <td align="center" width="30%">
-      <h3>🤳<br/>Lifestyle</h3>
+      <h3>🤳<br/>Life</h3>
       <a href="https://www.facebook.com/iamstephenpaul">
         <img src="https://img.shields.io/badge/Follow-blue?style=flat-square&logo=facebook&logoColor=white" />
       </a>
@@ -48,7 +55,6 @@
   </tr>
 </table>
 
-<br />
 <br />
 
 <div align="center">
