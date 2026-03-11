@@ -9,18 +9,22 @@
 <br />
 
 <div align="center">
-  <a href="https://twitter.com/stephendache">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
+  <a href="https://x.com/stephendache">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
   </a>
   <a href="https://linkedin.com/in/stephendache">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://youtube.com/stephendache">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
+  <a href="https://stephendache.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="30" />
   </a>
-  <a href="https://facebook.com/iamstephenpaul">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" />
+    <a href="https://facebook.com/iamstephenpaul">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" height="30" />
   </a>
+     <a href="https://instagram.com/stephendache">
+    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+  </a>
+
 </div>
 
 <br />
@@ -29,31 +33,6 @@
 I build software, grow developer communities, and share what I learn along the way.  
 Helping developers learn, ship products, and think bigger.
 </p>
-
-<br />
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="30%">
-      <h3>🌱<br/>Digital Garden</h3>
-      <a href="https://stephendache.github.io/">
-        <img src="https://img.shields.io/badge/Read_Blog-black?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="30%">
-      <h3>📹<br/>Dev Dictionary</h3>
-      <a href="https://www.youtube.com/stephendache">
-        <img src="https://img.shields.io/badge/Watch_Now-red?style=flat-square&logo=youtube&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="30%">
-      <h3>🤳<br/>Life</h3>
-      <a href="https://www.facebook.com/iamstephenpaul">
-        <img src="https://img.shields.io/badge/Follow-blue?style=flat-square&logo=facebook&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br />
 
