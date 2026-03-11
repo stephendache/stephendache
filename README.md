@@ -1,4 +1,11 @@
 <div align="center">
+  <a href="https://github.com/sponsors/stephendache">
+    <img src="https://img.shields.io/badge/Sponsor Me-💖?style=for-the-badge&logo=githubsponsors&logoColor=white&color=blue" height="30" />
+  </a>
+</div>
+
+
+<div align="center">
   <h1 align="center">Hi, I'm <a href="https://stephendache.github.io">Stephen</a> 👋</h1>
 
   <a href="https://git.io/typing-svg">
@@ -28,8 +35,6 @@
 </div>
 
 <br />
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/stephendache/stephendache/output/github-contribution-grid-snake.svg" alt="snake animation"/>
