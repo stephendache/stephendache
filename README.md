@@ -29,6 +29,13 @@
 
 <br />
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stephendache/stephendache/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stephendache&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=8b949e&icon_color=36BCF7" height="150" alt="stats graph" />
